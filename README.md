@@ -5,12 +5,11 @@
 
 ## 👥 Team Member
 
-| Name          | StudentId  |
-|---------------|------------|
-| LiaoZhenghua  | 20222092   |
-| HeHaonan      | 20222094   |
-| ChenHao       | 20222090   |
-
+| Name         | CN-Name   | StudentId  |
+|--------------|-----------|------------|
+| LiaoZhenghua | 廖正铧    | 20222092   |
+| HeHaonan     | 何浩楠    | 20222094   |
+| ChenHao      | 陈豪      | 20222090   |
 
 ## 🚀 online access
 -   https://8.209.211.89
@@ -26,30 +25,30 @@
 
 -   2.CountryDetailview  
         -2.1 CountryMedal-Info  
-        -2.2 CountrySportList
-        -2.3 CommentList
-        -2.4 Administrator edit data function
+        -2.2 CountrySportList  
+        -2.3 CommentList  
+        -2.4 Administrator edit data function  
 
 -   3.SportList 
-        -3.1 SportDetail
-        -3.2 Administrator edit data function
+        -3.1 SportDetail  
+        -3.2 Administrator edit data function  
 
 
 -   4.Navigation Bar  
         -4.1 Search Box  
-        -4.2 Home|About|Contact
-        -4.3 Login|Logout 
-        -4.4 AdminView
-        -4.5 Add country info View
+        -4.2 Home|About|Contact  
+        -4.3 Login|Logout   
+        -4.4 AdminView  
+        -4.5 Add country info View  
 
 -   5.CommentList
-        -5.1 User submit comment
-        -5.2 CommentList
-        -5.3 Delete comment function
+        -5.1 User submit comment  
+        -5.2 CommentList  
+        -5.3 Delete comment function  
 
 -   6.AdminView
-        -6.1 UserList
-        -6.2 Administrator edit user data function
+        -6.1 UserList  
+        -6.2 Administrator edit user data function  
 
 
 -   6.NotFoundView
