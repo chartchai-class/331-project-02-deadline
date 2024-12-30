@@ -18,6 +18,7 @@
 -   0.Project URL  
         -Frontend: https://github.com/Masterhua/vue-frontend-app-project/tree/master  
         -Backend:  https://github.com/Masterhua/Olympic-backend  
+        -Video：https://youtu.be/xKNajXPp0zk?si=JTER2QWHuy5Gml7c  
 
 -   1.HomeView  
         -1.1 RankList
